@@ -79,7 +79,7 @@ The **Social Media Analytics Dashboard** is a tool designed to collect, analyze,
   ![Pie Chart](https://github.com/ketan1403/Applicant-for-SimPPL/blob/80156f2c20e52e2c9a583782488590769f47eb15/Engagement%20Breakdown%20by%20URLs.png)
 
 - **Scatter Plot:** Relationship between likes and replies.
-  ![Scatter Plot Example](https://via.placeholder.com/600x300?text=Scatter+Plot+Screenshot)
+  ![Scatter Plot](https://github.com/ketan1403/Applicant-for-SimPPL/blob/0190590a8ed16cf56940894805e5d1c70dcdde3a/Likes%20vs%20Replies.png)
 
 - **Heatmap:** Hourly engagement trends.
   ![Heatmap Example](https://via.placeholder.com/600x300?text=Heatmap+Screenshot)
