@@ -14,9 +14,6 @@ The **Social Media Analytics Dashboard** is a tool designed to collect, analyze,
 
 2. **Data Visualization:**
    - Bar chart: Total engagement by URL.
-  
-     ![image alt](https://github.com/ketan1403/Applicant-for-SimPPL/blob/c4c555e4873ff7a537f6c200eca48a8edfc21959/Total%20Engagement%20by%20URL.png)
-     
    - Line chart: Engagement trends over time.
    - Pie chart: Engagement breakdown by URL.
    - Scatter plot: Likes vs. Replies.
@@ -76,7 +73,7 @@ The **Social Media Analytics Dashboard** is a tool designed to collect, analyze,
   ![Bar Chart](https://github.com/ketan1403/Applicant-for-SimPPL/blob/c4c555e4873ff7a537f6c200eca48a8edfc21959/Total%20Engagement%20by%20URL.png)
 
 - **Line Chart:** Engagement trends over time.
-  ![Line Chart Example](https://via.placeholder.com/600x300?text=Line+Chart+Screenshot)
+  ![Line Chart](https://github.com/ketan1403/Applicant-for-SimPPL/blob/180b2d766000c61ba77d612bd36b620dfb7be672/Engagement%20Trends%20over%20Time.png)
 
 - **Pie Chart:** Engagement distribution across URLs.
   ![Pie Chart Example](https://via.placeholder.com/600x300?text=Pie+Chart+Screenshot)
