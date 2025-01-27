@@ -89,7 +89,7 @@ The **Social Media Analytics Dashboard** is a tool designed to collect, analyze,
 
 ### Data Table
 - Displays URL-specific engagement metrics, including likes, shares, replies, and engagement scores.
-  ![Data Table Example](https://via.placeholder.com/600x300?text=Data+Table+Screenshot)
+  ![Data Table](https://github.com/ketan1403/Applicant-for-SimPPL/blob/ac1e5996c35f52a10f35515a98a2d6f0760fea74/Semantic%20Clusters%20of%20Posts.png)
 
 ---
 
