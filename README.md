@@ -82,7 +82,7 @@ The **Social Media Analytics Dashboard** is a tool designed to collect, analyze,
   ![Scatter Plot](https://github.com/ketan1403/Applicant-for-SimPPL/blob/0190590a8ed16cf56940894805e5d1c70dcdde3a/Likes%20vs%20Replies.png)
 
 - **Heatmap:** Hourly engagement trends.
-  ![Heatmap Example](https://via.placeholder.com/600x300?text=Heatmap+Screenshot)
+  ![Heatmap](https://github.com/ketan1403/Applicant-for-SimPPL/blob/b4edbbee16e33d86c54ab62d6e1e8e0d829c6404/Hourly%20Engagement%20Trends.png)
 
 - **Cluster Visualization:** Semantic clusters of posts.
   ![Cluster Visualization Example](https://via.placeholder.com/600x300?text=Cluster+Visualization+Screenshot)
