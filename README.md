@@ -70,7 +70,7 @@ The **Social Media Analytics Dashboard** is a tool designed to collect, analyze,
 
 ### Visualizations
 - **Bar Chart:** Total engagement per URL.
-  ![Bar Chart Example](https://via.placeholder.com/600x300?text=Bar+Chart+Screenshot)
+  ![Bar Chart]()
 
 - **Line Chart:** Engagement trends over time.
   ![Line Chart Example](https://via.placeholder.com/600x300?text=Line+Chart+Screenshot)
